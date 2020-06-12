@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Teacher Update</title>
-<link type="text/css" href='decor10.css' rel='stylesheet'>
+<link type="text/css" href='decor16.css' rel='stylesheet'>
 <link href="css/bootstrap.css" rel="stylesheet">
 
 </head>

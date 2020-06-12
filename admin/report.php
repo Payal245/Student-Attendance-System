@@ -7,7 +7,7 @@ if(isset($_POST['reprt'])){
 <html>
 <head>
 <title>Report </title>
-<link type="text/css" href='decor12.css' rel='stylesheet'>
+<link type="text/css" href='decor16.css' rel='stylesheet'>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/bootstrap.css" rel="stylesheet">
 <style>

@@ -6,7 +6,7 @@ if(isset($_SESSION['uid'])){
 <html>
 <head>
 <title>Admin profile </title>
-<link type="text/css" href='decor4.css' rel='stylesheet'>
+<link type="text/css" href='decor16.css' rel='stylesheet'>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/bootstrap.css" rel="stylesheet">
 <style>

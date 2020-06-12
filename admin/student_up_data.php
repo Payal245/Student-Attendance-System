@@ -5,7 +5,7 @@ $val=$_GET['update']
 <html>
 <head>
 <title>Student </title>
-<link type="text/css" href='decor14.css' rel='stylesheet'>
+<link type="text/css" href='decor16.css' rel='stylesheet'>
 <link href="css/bootstrap.css" rel="stylesheet">
 
 </head>
