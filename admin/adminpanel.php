@@ -35,7 +35,7 @@ text-decoration:underline;
 </div>
 </div>
 <div>
-<div class="side_nav">
+<div class="side_nav" style='position:absolute;z-index:1;'>
 <ul>
 <div class="side1">
 <li class="nav_menu" ><a href="#" class="nav d1" style="margin-top:10px;"><span class="material-icons " >
@@ -115,7 +115,7 @@ subject
 </div>
 </div>
 <nav>
-<div class='rp_nav'>
+<div class='rp_nav' style='position:absolute;z-index:1;'>
 <?php
 include('connect.php');
 $qur="SELECT DISTINCT dep_fk FROM student_detail";
